@@ -21,4 +21,4 @@ Built using **Python**, **Streamlit**, and **PyTesseract**.
   - Phone number
 - 📦 JSON output ready for integration
 
----# ocr-to-json-parser
+
